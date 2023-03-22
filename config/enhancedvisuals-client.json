@@ -354,9 +354,9 @@
     },
     "thirst": {
       "enabled": true,
-      "opacity": 1.0,
+      "opacity": 0.5,
       "defaultIntensity": 0,
-      "maxIntensity": 5,
+      "maxIntensity": 3,
       "fadeFactor": 0.05000000074505806,
       "thirstLevel": {
         "min": 2,
