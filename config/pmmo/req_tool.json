@@ -267,7 +267,7 @@
 	},
 	"minecraft:diamond_axe":
 	{
-		"woodcutting": 40
+		"woodcutting": 20
 	},
 	"minecraft:diamond_hoe":
 	{
@@ -275,11 +275,11 @@
 	},
 	"minecraft:diamond_pickaxe":
 	{
-		"mining": 40
+		"mining": 20
 	},
 	"minecraft:diamond_shovel":
 	{
-		"excavation": 40
+		"excavation": 30
 	},
 	"minecraft:golden_axe":
 	{
@@ -299,19 +299,19 @@
 	},
 	"minecraft:iron_axe":
 	{
-		"woodcutting": 20
+		"woodcutting": 8
 	},
 	"minecraft:iron_hoe":
 	{
-		"farming": 20
+		"farming": 10
 	},
 	"minecraft:iron_pickaxe":
 	{
-		"mining": 20
+		"mining": 8
 	},
 	"minecraft:iron_shovel":
 	{
-		"excavation": 20
+		"excavation": 10
 	},
 	"minecraft:netherite_axe":
 	{
@@ -331,19 +331,19 @@
 	},
 	"minecraft:stone_axe":
 	{
-		"woodcutting": 10
+		"woodcutting": 4
 	},
 	"minecraft:stone_hoe":
 	{
-		"farming": 10
+		"farming": 6
 	},
 	"minecraft:stone_pickaxe":
 	{
-		"mining": 10
+		"mining": 4
 	},
 	"minecraft:stone_shovel":
 	{
-		"excavation": 10
+		"excavation": 5
 	},
 	"minecraft:wooden_axe":
 	{

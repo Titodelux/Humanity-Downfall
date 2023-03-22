@@ -1251,6 +1251,27 @@
 	{
 		"combat": 1
 	},
+	"mujmajnkraftsbettersurvival:itemwoodhammer":
+	{
+		"combat": 3
+	},
+	"mujmajnkraftsbettersurvival:itemwoodspear":
+	{
+		"combat": 2
+	},
+	"mujmajnkraftsbettersurvival:itemwooddagger":
+	{
+		"combat": 1
+	},
+	"mujmajnkraftsbettersurvival:itemwoodbattleaxe":
+	{
+		"combat": 3
+	},
+	"mujmajnkraftsbettersurvival:itemwoodnunchaku":
+	{
+		"combat": 3,
+		"agility": 3
+	},
 	"mvw:amethyst_bow":
 	{
 		"archery": 10
@@ -1610,6 +1631,55 @@
 	"spartanweaponry:longbow_wood":
 	{
 		"archery": 5
+	},
+	"spartanweaponry:dagger_wood":
+	{
+		"combat": 1
+	},
+	"spartanweaponry:parrying_dagger_wood":
+	{
+		"combat": 1
+	},
+	"spartanweaponry:longsword_wood":
+	{
+		"combat": 3
+	},
+	"spartanweaponry:katana_wood":
+	{
+		"combat": 3,
+		"agilty": 5
+	},
+	"spartanweaponry:saber_wood":
+	{
+		"combat": 2
+	},
+	"spartanweaponry:rapier_wood":
+	{
+		"combat": 2
+	},
+	"spartanweaponry:greatsword_wood":
+	{
+		"combat": 3
+	},
+	"spartanweaponry:club_wood":
+	{
+		"combat": 1
+	},
+	"spartanweaponry:hammer_wood":
+	{
+		"combat": 3
+	},
+	"spartanweaponry:warhammer_wood":
+	{
+		"combat": 3
+	},
+	"spartanweaponry:spear_wood":
+	{
+		"combat": 1
+	},
+	"spartanweaponry:halberd_wood":
+	{
+		"combat": 4
 	},
 	"switchbow:switchbow":
 	{

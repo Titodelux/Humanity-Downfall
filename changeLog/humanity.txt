@@ -86,7 +86,7 @@ solcarrot: spice of live, ganas corazones descubriendo nuevas comidas
 soManyEnchantments: mas encantamientos
 !spaceAmbient: la misma paja sonora conel espacio
 spartanWeaponry: armas espartanas
-spiders2.0: arañas mejoradas
+!spiders2.0: arañas mejoradas
 SRP: D:
 srp vaccine: una vacuna para los parasitos
 staminaPlus: Una barra de estamina
@@ -101,11 +101,11 @@ trash  can: botes de basura
 traveler's backpack: mochila potente,
 TravelersBackpackIntegations: mochila para tought as nails
 
-UniDict: los mismos minerales de diferentes mods se vuelven compatibles : wanion lib
+!UniDict: los mismos minerales de diferentes mods se vuelven compatibles : wanion lib
 ViesCraft: Maquinas voladoras, hovers, y de mar -5 vc.final.jar - vc-1.12.2
 
 wallJump: salto en pared projectMMO
-wanion Lib: libreria pa UniDict
+!wanion Lib: libreria pa UniDict
 weakerSpiderWebs: las cowebs se rompen mientras pasas por ellas
 weather2: tornados, tormentas, y mas
 webShooter: las arañas al atacarte te ponen una coweb en los pies 
