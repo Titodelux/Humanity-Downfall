@@ -1,8 +1,8 @@
-3dSkinLayers: texturas de skin 3d xd
+*Delete* 3dSkinLayers: texturas de skin 3d xd
 
 AIImprovements: Mejora el perfomance de las IA's
-!ambientSounds 5: sonidos ambientales realistas
-Animania: Animales de granja reales, con necesidades
+ambientSounds 5: sonidos ambientales realistas
+*Delete* Animania: Animales de granja reales, con necesidades
 AppleCore: librería para spice of life
 armorunder: integracion con toughs as nails para ropa bajo armadura
 attributefix: para balancear daños y velocidades
@@ -11,7 +11,7 @@ attributefix: para balancear daños y velocidades
 betterSurvival: más armas y encantamientos
 betterAnimalsPlus: mas animales
 betterFPS: optimiza los fps
-!betterThirdPerson: mejor tercera persona (ajustes de camara y asi)
+betterThirdPerson: mejor tercera persona (ajustes de camara y asi)
 BOP: ya saben, biomas xd
 buildcraft: quarrys y maquinas automaticas :P
 building gadgets: EL MEJOR MOD DEL AÑO
@@ -26,18 +26,18 @@ comforts: nuevos sitios para dormir, sin guardar spawn
 coroutil: libreria para zombie awareness
 corpse: ojala no muramos mucho :c
 craftStudioAPI: libreria creo que pa 3dSkins
-!crash to main menu: evita que se cierre minecraft tras un crasheo
+crash to main menu: evita que se cierre minecraft tras un crasheo
 creativecore : libreria
 CSC: los pollos sueltan plumas xD
 
 doggyTalents: mejores perros y habilidades perrunas
 doubleDoors: abre conjunto de puertas a la vez
 dynamic stealth: para que los mobs tengan campo de vision real : fantastic lib
-!dinamic surroundings: mejoras de los sonidos y ecos
-dynamicTrees: arboles mas bonitos
-dynamictresBop: compatibilidad con BOP
+dinamic surroundings: mejoras de los sonidos y ecos
+*Delete* dynamicTrees: arboles mas bonitos
+*Delete* dynamictresBop: compatibilidad con BOP
 
-!enhancedvisuals: mejora el aspecto visual : creative core
+enhancedvisuals: mejora el aspecto visual : creative core
 
 familiarFauna: mas fauna
 fantastic Lib: libreria
@@ -46,14 +46,14 @@ grappling hook: ganchos madafakas
 
 hardcoreDarkness: oscuridad total
 
-instant unify: unifica todos los ores
+*Delete* instant unify: unifica todos los ores // Solo para servidor
 ivToolkit: libreria para recurrent complex
-ichunutil: libreria para mob Dismemberment
+*Delete* ichunutil: libreria para mob Dismemberment
 
 jei: pos jei
 journeyMap: pos journeyMap
 
-!lumen-beta: iluminaciones bonitas - illumination
+*Delete* lumen-beta: iluminaciones bonitas - illumination
 
 mo'bend: mejores animaciones
 morepainting: permite escoger la pintura del cuadro
@@ -72,7 +72,7 @@ Overlast: nuevas mecanicas para jugar contra los parasitos, y un hud bonito
 playerRevive :V
 projectMMO: ahora tienes los skills que te permitiran gannar bonificaciones y desbloquear el uso de herramientas
 
-railcraft: mejoras en el sistema de railes
+*Delete* railcraft: mejoras en el sistema de railes
 reachfix: libreria para better survival 
 realisticTorches: antorchas realistas
 recurrentComplex: MAS ESTRUCTURAS
@@ -84,9 +84,9 @@ sereeneSeasons: estaciones
 sereneTweaks: para corregir errores de serene seasons
 solcarrot: spice of live, ganas corazones descubriendo nuevas comidas
 soManyEnchantments: mas encantamientos
-!spaceAmbient: la misma paja sonora conel espacio
+*Delete* spaceAmbient: la misma paja sonora conel espacio
 spartanWeaponry: armas espartanas
-!spiders2.0: arañas mejoradas
+*Delete* spiders2.0: arañas mejoradas
 SRP: D:
 srp vaccine: una vacuna para los parasitos
 staminaPlus: Una barra de estamina
@@ -101,11 +101,11 @@ trash  can: botes de basura
 traveler's backpack: mochila potente,
 TravelersBackpackIntegations: mochila para tought as nails
 
-!UniDict: los mismos minerales de diferentes mods se vuelven compatibles : wanion lib
+*Delete* UniDict: los mismos minerales de diferentes mods se vuelven compatibles : wanion lib
 ViesCraft: Maquinas voladoras, hovers, y de mar -5 vc.final.jar - vc-1.12.2
 
 wallJump: salto en pared projectMMO
-!wanion Lib: libreria pa UniDict
+*Delete* wanion Lib: libreria pa UniDict
 weakerSpiderWebs: las cowebs se rompen mientras pasas por ellas
 weather2: tornados, tormentas, y mas
 webShooter: las arañas al atacarte te ponen una coweb en los pies 
