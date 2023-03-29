@@ -1483,19 +1483,19 @@
 	},
 	"minecraft:diamond_boots":
 	{
-		"endurance": 40
+		"endurance": 35
 	},
 	"minecraft:diamond_chestplate":
 	{
-		"endurance": 40
+		"endurance": 35
 	},
 	"minecraft:diamond_helmet":
 	{
-		"endurance": 40
+		"endurance": 35
 	},
 	"minecraft:diamond_leggings":
 	{
-		"endurance": 40
+		"endurance": 35
 	},
 	"minecraft:elytra":
 	{
@@ -1520,19 +1520,19 @@
 	},
 	"minecraft:iron_boots":
 	{
-		"endurance": 30
+		"endurance": 20
 	},
 	"minecraft:iron_chestplate":
 	{
-		"endurance": 30
+		"endurance": 20
 	},
 	"minecraft:iron_helmet":
 	{
-		"endurance": 30
+		"endurance": 20
 	},
 	"minecraft:iron_leggings":
 	{
-		"endurance": 30
+		"endurance": 20
 	},
 	"minecraft:leather_boots":
 	{

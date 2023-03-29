@@ -1161,15 +1161,15 @@
 	},
 	"minecraft:diamond_pickaxe":
 	{
-		"combat": 40
+		"combat": 30
 	},
 	"minecraft:diamond_shovel":
 	{
-		"combat": 40
+		"combat": 30
 	},
 	"minecraft:diamond_sword":
 	{
-		"combat": 40
+		"combat": 35
 	},
 	"minecraft:golden_axe":
 	{
@@ -1271,6 +1271,27 @@
 	{
 		"combat": 3,
 		"agility": 3
+	},
+	"mujmajnkraftsbettersurvival:itemstonehammer":
+	{
+		"combat": 13
+	},
+	"mujmajnkraftsbettersurvival:itemstonespear":
+	{
+		"combat": 13
+	},
+	"mujmajnkraftsbettersurvival:itemstonedagger":
+	{
+		"combat": 10
+	},
+	"mujmajnkraftsbettersurvival:itemstonebattleaxe":
+	{
+		"combat": 13
+	},
+	"mujmajnkraftsbettersurvival:itemstonenunchaku":
+	{
+		"combat": 13,
+		"agility": 13
 	},
 	"mvw:amethyst_bow":
 	{
@@ -1642,44 +1663,93 @@
 	},
 	"spartanweaponry:longsword_wood":
 	{
-		"combat": 3
+		"combat": 5
 	},
 	"spartanweaponry:katana_wood":
 	{
-		"combat": 3,
-		"agilty": 5
+		"combat": 6,
+		"agilty": 6
 	},
 	"spartanweaponry:saber_wood":
 	{
-		"combat": 2
+		"combat": 4
 	},
 	"spartanweaponry:rapier_wood":
 	{
-		"combat": 2
+		"combat": 7
 	},
 	"spartanweaponry:greatsword_wood":
 	{
-		"combat": 3
+		"combat": 8
 	},
 	"spartanweaponry:club_wood":
 	{
-		"combat": 1
+		"combat": 2
 	},
 	"spartanweaponry:hammer_wood":
 	{
-		"combat": 3
+		"combat": 7
 	},
 	"spartanweaponry:warhammer_wood":
 	{
-		"combat": 3
+		"combat": 9
 	},
 	"spartanweaponry:spear_wood":
 	{
-		"combat": 1
+		"combat": 3
 	},
 	"spartanweaponry:halberd_wood":
 	{
-		"combat": 4
+		"combat": 10
+	},
+	"spartanweaponry:dagger_stone":
+	{
+		"combat": 10
+	},
+	"spartanweaponry:parrying_dagger_stone":
+	{
+		"combat": 11
+	},
+	"spartanweaponry:longsword_stone":
+	{
+		"combat": 15
+	},
+	"spartanweaponry:katana_stone":
+	{
+		"combat": 16,
+		"agilty": 16
+	},
+	"spartanweaponry:saber_stone":
+	{
+		"combat": 14
+	},
+	"spartanweaponry:rapier_stone":
+	{
+		"combat": 17
+	},
+	"spartanweaponry:greatsword_stone":
+	{
+		"combat": 18
+	},
+	"spartanweaponry:club_stone":
+	{
+		"combat": 12
+	},
+	"spartanweaponry:hammer_stone":
+	{
+		"combat": 17
+	},
+	"spartanweaponry:warhammer_stone":
+	{
+		"combat": 19
+	},
+	"spartanweaponry:spear_stone":
+	{
+		"combat": 13
+	},
+	"spartanweaponry:halberd_stone":
+	{
+		"combat": 20
 	},
 	"switchbow:switchbow":
 	{
