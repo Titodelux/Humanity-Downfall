@@ -1,7 +1,7 @@
 *Delete* 3dSkinLayers: texturas de skin 3d xd
 
 AIImprovements: Mejora el perfomance de las IA's
-ambientSounds 5: sonidos ambientales realistas
+*para mi*ambientSounds 5: sonidos ambientales realistas
 *Delete* Animania: Animales de granja reales, con necesidades
 AppleCore: librería para spice of life
 armorunder: integracion con toughs as nails para ropa bajo armadura
@@ -31,7 +31,7 @@ creativecore : libreria
 CSC: los pollos sueltan plumas xD
 
 doggyTalents: mejores perros y habilidades perrunas
-doubleDoors: abre conjunto de puertas a la vez
+*delete* doubleDoors: abre conjunto de puertas a la vez
 dynamic stealth: para que los mobs tengan campo de vision real : fantastic lib
 dinamic surroundings: mejoras de los sonidos y ecos
 *Delete* dynamicTrees: arboles mas bonitos
@@ -69,7 +69,7 @@ ompd: vallas dañinas, bloques indestructibles - Open Modular Passive
 orelib: libreria para dynamic surroundings 
 Overlast: nuevas mecanicas para jugar contra los parasitos, y un hud bonito
 
-playerRevive :V
+*delete* playerRevive :V
 projectMMO: ahora tienes los skills que te permitiran gannar bonificaciones y desbloquear el uso de herramientas
 
 railcraft: mejoras en el sistema de railes

@@ -1,0 +1,82 @@
+AIImprovements: Mejora el perfomance de las IA's
+AppleCore: librería para spice of life
+armorunder: integracion con toughs as nails para ropa bajo armadura
+
+Вращение: extended days - B3M
+betterAnimalsPlus: mas animales
+betterFPS: optimiza los fps
+betterThirdPerson: mejor tercera persona (ajustes de camara y asi)
+buildcraft: quarrys y maquinas automaticas :P
+building gadgets: EL MEJOR MOD DEL AÑO
+
+camouflagedCreepers: creepers camaleones >:P
+campfire: campfire :P
+carrotslib: libreria para armorunder
+carryOn: Pa cargar cosas
+coalExplosion: jejeje
+collective: libreria para los de serilium
+comforts: nuevos sitios para dormir, sin guardar spawn
+
+doggyTalents: mejores perros y habilidades perrunas
+dynamic stealth: para que los mobs tengan campo de vision real : fantastic lib
+dinamic surroundings: mejoras de los sonidos y ecos
+
+enhancedvisuals: mejora el aspecto visual : creative core
+
+familiarFauna: mas fauna
+fantastic Lib: libreria pa dynamic stealth
+
+ivToolkit: libreria para recurrent complex	
+
+grappling hook: ganchos madafakas
+hardcoreDarkness: oscuridad total
+
+jei: pos jei
+journeyMap: pos journeyMap
+
+mo'bend: mejores animaciones
+mobsunscreen: bloqueador solar pa monstruos
+
+NoCubes_combat: añade nuevas armas y armaduras SRP
+NoCubes_Nest: templos de parasitos
+NoCubes_Survival: comidas, bloques, armas y herramientas, colmenas
+
+omlib: libreria para modular blablala
+ompd: vallas dañinas, bloques indestructibles - Open Modular Passive
+orelib: libreria para dynamic surroundings 
+Overlast: nuevas mecanicas para jugar contra los parasitos, y un hud bonito
+
+projectMMO: ahora tienes los skills que te permitiran gannar bonificaciones y desbloquear el uso de herramientas
+
+railcraft: mejoras en el sistema de railes
+realisticTorches: antorchas realistas
+recurrentComplex: MAS ESTRUCTURAS
+roughTweaks: ahora necesitas medkits para curarte
+
+sanity: un nivel de cordura que tienes que controlar, o viviras las consecuencias
+sereeneSeasons: estaciones
+sereneTweaks: para corregir errores de serene seasons
+solcarrot: spice of live, ganas corazones descubriendo nuevas comidas
+soManyEnchantments: mas encantamientos
+SRP: D:
+starterKit: para configurar un kit de inicio 
+
+techgun::D
+tiffit: libreria para sanity :v
+ToughsAsNails: ya saben :P
+trash  can: botes de basura
+traveler's backpack: mochila potente,
+TravelersBackpackIntegations: mochila para tought as nails
+
+ViesCraft: Maquinas voladoras, hovers, y de mar -5 vc.final.jar - vc-1.12.2
+wallJump: salto en pared projectMMO
+weakerSpiderWebs: las cowebs se rompen mientras pasas por ellas
+webShooter: las arañas al atacarte te ponen una coweb en los pies 
+webslinger: las arañas te lanzan coweb a la distancia
+wumpleUtil: libreria para webslinger
+
+zombieAwareness: zombies arrechos
+
+
+
+
