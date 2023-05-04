@@ -1,118 +1,153 @@
 *Delete* 3dSkinLayers: texturas de skin 3d xd
 
-AIImprovements: Mejora el perfomance de las IA's
+# ActuallyAditions: Añde muchas cosas Tech
+# ActuallyBaubles: Para obtener la version bauble de ciertos items de ActuallyAditions
+# AdHooks: Ganchos madafakas (comparar con grappling hook) : forgeEndertech
+# AdLods: large ore deposites, pa menas de minerales mas grandes : forgeEndertech
+# AIImprovements: Mejora el perfomance de las IA's
 *para mi*ambientSounds 5: sonidos ambientales realistas
 *Delete* Animania: Animales de granja reales, con necesidades
-AppleCore: librería para spice of life
-armorunder: integracion con toughs as nails para ropa bajo armadura
-attributefix: para balancear daños y velocidades
+# AppleCore: librería para spice of life
+# appleSkin: pos pa mostrar el valor nutritivo
+# armorunder: integracion con toughs as nails para ropa bajo armadura : carrotslib
+# attributefix: para balancear daños y velocidades
 
-Вращение: extended days - B3M
-betterSurvival: más armas y encantamientos
-betterAnimalsPlus: mas animales
-betterFPS: optimiza los fps
-betterThirdPerson: mejor tercera persona (ajustes de camara y asi)
-BOP: ya saben, biomas xd
-buildcraft: quarrys y maquinas automaticas :P
-building gadgets: EL MEJOR MOD DEL AÑO
+# Вращение: extended days - B3M
+# betterSurvival: más armas y encantamientos
+# betterAnimalsPlus: mas animales
+# betterFPS: optimiza los fps
+# betterThirdPerson: mejor tercera persona (ajustes de camara y asi)
+# BOP: ya saben, biomas xd
+# buildcraft: quarrys y maquinas automaticas :P
+# building gadgets: EL MEJOR MOD DEL AÑO
 
-camouflagedCreepers: creepers camaleones >:P
-carrotslib: libreria :v
-carryOn: Pa cargar cosas
-coalExplosion: jejeje
-codechiicken: libreria pa tift
-collective: librerias pa varios mods
-comforts: nuevos sitios para dormir, sin guardar spawn
-coroutil: libreria para zombie awareness
-corpse: ojala no muramos mucho :c
-craftStudioAPI: libreria creo que pa 3dSkins
-crash to main menu: evita que se cierre minecraft tras un crasheo
-creativecore : libreria
-CSC: los pollos sueltan plumas xD
+# camouflagedCreepers: creepers camaleones >:P
+# campfire: hoguera que puedo ajustar tiempo y cocina comida
+# carrotslib: libreria para armorunder 
+# carryOn: Pa cargar cosas
+# Cannibalism: Pa ser canibales :D
+# coalExplosion: jejeje
+# codechiicken: libreria pa tift
+# collective: librerias pa varios mods
+# CollectingRain: permite recoger agua con una cubeta bajo la lluvia
+# comforts: nuevos sitios para dormir, sin guardar spawn
+# coroutil: libreria para zombie awareness
+*delete* corpse: ojala no muramos mucho :c
+*delete* craftStudioAPI: libreria creo que pa 3dSkins
+*delete?* crash to main menu: evita que se cierre minecraft tras un crasheo
+# creativecore : libreria	no se pa que 
+# CSC: los pollos sueltan plumas xD
+# CustomZombieDrops: pa que los zombies suelten drops de otros mobs... hay que probarlo
 
-doggyTalents: mejores perros y habilidades perrunas
+# doggyTalents: mejores perros y habilidades perrunas
 *delete* doubleDoors: abre conjunto de puertas a la vez
-dynamic stealth: para que los mobs tengan campo de vision real : fantastic lib
-dinamic surroundings: mejoras de los sonidos y ecos
+# dynamic stealth: para que los mobs tengan campo de vision real : fantastic lib
+# dinamic surroundings: mejoras de los sonidos y ecos
 *Delete* dynamicTrees: arboles mas bonitos
 *Delete* dynamictresBop: compatibilidad con BOP
 
-enhancedvisuals: mejora el aspecto visual : creative core
+# enhancedvisuals: mejora el aspecto visual : creative core
+# entityCulling: mejora muchisimo los fps al optimizar el render de entidades - client side (si da error usa mixin compatibility) : renderLib
+# extraPlanets: mas planetas pal galacticraf : mjrlegendsLib
 
-familiarFauna: mas fauna
-fantastic Lib: libreria
+# familiarFauna: mas fauna
+# fantastic Lib: libreria pa dynamic stealth
+# forgeEndertech: libreria pa AdHooks, AdLods
 
-grappling hook: ganchos madafakas
+# galacticraft: es galacticraft-legacy, mod reciente que junta todas las librerias y el core de galacticraft, hay que probarlo...
+# galacticTweaks: para cambiar ciertas cositas de galacticraft, pendiente si funciona con el legacy... hay que probarlo...
+*delete*grappling hook: ganchos madafakas
 
-hardcoreDarkness: oscuridad total
+# hardcoreDarkness: oscuridad total
+# HungerOverhaul: permite hacer tweaks al sistema de comida : applecore
 
 *Delete* instant unify: unifica todos los ores // Solo para servidor
-ivToolkit: libreria para recurrent complex
-*Delete* ichunutil: libreria para mob Dismemberment
+# ivToolkit: libreria para recurrent complex
 
-jei: pos jei
-journeyMap: pos journeyMap
+# jei: pos jei
+# journeyMap: pos journeyMap
 
-*Delete* lumen-beta: iluminaciones bonitas - illumination
+# landmines: minas chotas reusables
 
-mo'bend: mejores animaciones
-morepainting: permite escoger la pintura del cuadro
+# mixinBootstrap: libreria para entity culling - client side
+# mjrlegendsLib: libreria para :  collecting rain, extraPlanets
+# mo'bend: mejores animaciones
+# mobsunscreen: bloqueador solar pa monstruos
+# modularPowerSuits: trajes al estilo ironman madafakas
+# morepainting: permite escoger la pintura del cuadro
 
-NoCubes_combat: añade nuevas armas y armaduras SRP
-NoCubes_Nest: templos de parasitos
-NoCubes_Survival: comidas, bloques, armas y herramientas, colmenas
+# NoCubes_combat: añade nuevas armas y armaduras SRP
+# NoCubes_Nest: templos de parasitos
+# NoCubes_Survival: comidas, bloques, armas y herramientas, colmenas
+# NTM_extended: hbm nucleat tech mod, añade radioactividad, armas nucleares, y demás
 
-nutrition: consumir proteinas, granos, vegetales y frutas de manera equilibrada
+# nutrition: consumir proteinas, granos, vegetales y frutas de manera equilibrada
 
-omlib: libreria para modular blablala
-ompd: vallas dañinas, bloques indestructibles - Open Modular Passive
-orelib: libreria para dynamic surroundings 
-Overlast: nuevas mecanicas para jugar contra los parasitos, y un hud bonito
+# omlib: libreria para modular blablala
+# ompd: vallas dañinas, bloques indestructibles - Open Modular Passive
+# openmodularturrets: torretas
+# orelib: libreria para dynamic surroundings 
+# Overlast: nuevas mecanicas para jugar contra los parasitos, y un hud bonito
 
 *delete* playerRevive :V
-projectMMO: ahora tienes los skills que te permitiran gannar bonificaciones y desbloquear el uso de herramientas
+# projectMMO: ahora tienes los skills que te permitiran gannar bonificaciones y desbloquear el uso de herramientas
 
-railcraft: mejoras en el sistema de railes
-reachfix: libreria para better survival 
-realisticTorches: antorchas realistas
-recurrentComplex: MAS ESTRUCTURAS
-refinedRelocation: permite automatizar facilmente el orden de los cofres
-roughTweaks: ahora necesitas medkits para curarte
+# railcraft: mejoras en el sistema de railes
+# reachfix: libreria para better survival 
+# realisticTorches: antorchas realistas
+# reborn Core: liberia pa NOSEEE 
+# recurrentComplex: MAS ESTRUCTURAS :   ivToolkit
+*delete* refinedRelocation: permite automatizar facilmente el orden de los cofres
+# renderLib: libreria para entity culling - client side
+# roughTweaks: ahora necesitas medkits para curarte
 
-sanity: un nivel de cordura que tienes que controlar, o viviras las consecuencias
-sereeneSeasons: estaciones
-sereneTweaks: para corregir errores de serene seasons
-solcarrot: spice of live, ganas corazones descubriendo nuevas comidas
-soManyEnchantments: mas encantamientos
+# sanity: un nivel de cordura que tienes que controlar, o viviras las consecuencias
+# scannable: escanea ores, entidades, bloques, al rededor del jugador
+# sereeneSeasons: estaciones
+# sereneTweaks: para corregir errores de serene seasons
+# SecurityCraft: pos es SecurityCraft xD
+# simpleDifficulty: ps como el TAN pero mas actualizado, hay que probar...
+# simpleFlashlight: añade linterna :P
+# SimpleGenerators: varios tipos de generadores (avr si me da FE o RF)
+# ShoulderSurfing: increible camara en tercera persona, client-side
+# solcarrot: spice of live carrot edition, ganas corazones descubriendo nuevas comidas
+# soManyEnchantments: mas encantamientos
 *Delete* spaceAmbient: la misma paja sonora conel espacio
-spartanWeaponry: armas espartanas
+# spartanWeaponry: armas espartanas
+# spiceOflife: las comidas van perdiendo su nutricion si las repites
 *Delete* spiders2.0: arañas mejoradas
-SRP: D:
-srp vaccine: una vacuna para los parasitos
-staminaPlus: Una barra de estamina
-starterKit: para configurar un kit de inicio 
-supermartin: libreria
+# SRP: D:
+# srp vaccine: una vacuna para los parasitos
+# staminaPlus: Una barra de estamina
+# starterKit: para configurar un kit de inicio 
+# stevesCarts: minecarts madafakas con taladro y to' : reborn Core
+# stg: swing through grass, pos pa que las armas no interactuen con los objetos transpartentes :P
+# supermartinCore: libreria creo que para trash can
+# supermartinConfig: libreria creo que para landmines
 
-techgun::D
-tiffit: libreria para sanity :v
-torchmaster: antorcha que evita el spawn de mobs y otras cosillas
-ToughsAsNails: ya saben :P
-trash  can: botes de basura
-traveler's backpack: mochila potente,
-TravelersBackpackIntegations: mochila para tought as nails
+# techgun::D
+# tiffit: libreria para sanity :v
+# Toolbelt: es el cinturon madafaka
+# torchmaster: antorcha que evita el spawn de mobs y otras cosillas
+# ToughsAsNails: ya saben :P
+# trash  can: botes de basura
+# traveler's backpack: mochila potente,
+# TravelersBackpackIntegations: mochila para tought as nails
 
 *Delete* UniDict: los mismos minerales de diferentes mods se vuelven compatibles : wanion lib
-ViesCraft: Maquinas voladoras, hovers, y de mar -5 vc.final.jar - vc-1.12.2
+# valkyrieLib: libreria para Simple Generators
+# ViesCraft: Maquinas voladoras, hovers, y de mar - vc-1.12.2-5 vc.final.jar 
 
-wallJump: salto en pared projectMMO
+# wallJump: salto en pared projectMMO
+# WaterCan: hace que los cultivos crezcan más rapidos si los griegas... hay que probar
 *Delete* wanion Lib: libreria pa UniDict
-weakerSpiderWebs: las cowebs se rompen mientras pasas por ellas
-weather2: tornados, tormentas, y mas
-webShooter: las arañas al atacarte te ponen una coweb en los pies 
-webslinger: las arañas te lanzan coweb a la distancia
-wumpleUtil: libreria para webslinger
+# weakerSpiderWebs: las cowebs se rompen mientras pasas por ellas
+*delete* weather2: tornados, tormentas, y mas
+# webShooter: las arañas al atacarte te ponen una coweb en los pies 
+# webslinger: las arañas te lanzan coweb a la distancia : wumpleUtil
+# WumpleUtil: libreria para webslinger
 
-zombieAwareness: zombies arrechos
+# zombieAwareness: zombies arrechos
 
 
 

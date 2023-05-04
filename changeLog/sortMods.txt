@@ -1,0 +1,143 @@
+Principales:
+    Mobs:
+        Scape & Run Parasites => Aceptado
+        MobSunscreen => Aceptado
+
+    Terror y realismo:
+        HardcoreDarkness => Aceptado
+        RealisticTorches => Aceptado
+        SimpleFlashlight => Aceptado
+        Dynamic Stealth => Aceptado
+        ZombieAwareness => Aceptado
+
+    Supervivencia:
+        RoughTweaks => Aceptado
+        SimpleDifficulty || ToughsAsNails
+        HungerOverhaul => Aceptado
+        SpiceOfLife && SolCarrot || Nutrition
+
+    Espacio y futuristas:
+        SimpleGenerators => Aceptado, hay que hacer unos tweaks, pero funciona y es simple
+        Galacticraft => Aceptado
+        TechGuns => Aceptado
+        OpenModularTurrets => Aceptado
+        NTM_Extended => Aceptado
+        BuildingGadgets => Aceptado
+        Traveler's Backpack => Aceptado
+
+    Mundo:
+        AdLods => Aceptado
+        RecurrentComplex => Aceptado
+        B3M => Aceptado
+        SereneSeasons => Aceptado
+        Biomes o' Plenty
+
+    Animales: 
+        BetterAnimalPlus => Aceptado
+        FamiliarFauna => Dubidativo
+
+Complementales a Principales:
+    SRP:
+        NoCubes_combat
+        NoCubes_Nest
+        NoCubes_Survival
+        Overlast
+        SRP Vaccine
+
+    Galacticraft:
+        ExtraPlanets => Aceptado
+
+    SimpleDifficulty || TAN && B3M:
+        Campfire
+        ArmorUnder 
+        TravelersBackpackIntegrations
+        CollectingRain
+
+    OpenModularTurrets:
+        OpenModularPassive => Dubidativo, el tier 2 es más que suficiente para aguantar a los parásitos... Es muy bonito pero a menos que: Aumente el poder destructivo de los parásitos, o baje el nivel defensivo de los bloques.
+        Landmines => Aceptado
+
+Tweakers:
+    CustomZombieDrops
+    Attributefix
+    GalacticTweaks
+    SereneTweaks
+
+Secundarios:
+    AdHooks => Aceptado
+    ActuallyAditions => Aceptado
+    StevesCarts => Aceptado
+    Scannable => Aceptado
+    GrapplingHook => Negado
+    ViesCraft => Posible, si no se destruyeran los airships
+    Buildcraft
+    Torchmaster
+    RailCraft
+    Sanity
+    ProjectMMO
+    ModularPowerSuits
+
+Visuales:
+    EnhancedVisuals
+    DinamicSurroundings
+    Mo'Bend
+    ShoulderSurfing => Aceptado
+    BetterThirdPerson 
+
+Opcionales:
+    ActuallyBaubles
+    BetterSurvival
+    CamouflagedCreepers
+    Cannibalism
+    CoalExplosion => Aceptado
+    CSC(Pollos plumas)
+    SecurityCraft
+    StaminaPlus
+    SoManyEnchantments
+    SpartanWeaponry
+    WeakerSpiderWebs
+    WebShooter
+    WebSlinger
+    WallJump 
+    TrashCan
+    Morepainting
+    DoggyTalents
+    WaterCan
+    
+Librerias:
+    Coroutil => Aceptado
+    FantasticLib => Aceptado
+    OmLib => Aceptado
+    ForgeEndertech => Aceptado
+    ValkyrieLib => Aceptado
+    AppleCore
+    CarrotsLib
+    CodeChicken
+    Collective
+    Creative Core
+    IvToolkit
+    MixinBootstrap
+    MjrlegendsLib
+    OreLib
+    ReachFix
+    Reborn Core
+    RenderLib
+    SupermartinCore
+    SupermartinConfig
+    Tiffit
+    WumpleUtil
+
+Apoyo:
+    AppleSkin => Aceptado
+    JEI => Aceptado
+    Swing Through Grass => Aceptado
+    JourneyMap
+    StarterKit || (yo tenia otro que no recuerdo nombre)
+    CarryOn
+    Comforts
+    Toolbelt
+
+Perfomance:
+    AIImprovements => Aceptado
+    BetterFPS => Aceptado
+    EntityCulling => Aceptado

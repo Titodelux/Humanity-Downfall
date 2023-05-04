@@ -1,5 +1,6 @@
 AIImprovements: Mejora el perfomance de las IA's
-AppleCore: librería para spice of life
+AppleCore: librería para spice of life`
+AppleSkin: estadisticas de comida
 armorunder: integracion con toughs as nails para ropa bajo armadura
 
 Вращение: extended days - B3M
@@ -16,6 +17,8 @@ carryOn: Pa cargar cosas
 coalExplosion: jejeje
 collective: libreria para los de serilium
 comforts: nuevos sitios para dormir, sin guardar spawn
+corouti: libreria
+creativeCore: libreria
 
 doggyTalents: mejores perros y habilidades perrunas
 dynamic stealth: para que los mobs tengan campo de vision real : fantastic lib
@@ -26,10 +29,11 @@ enhancedvisuals: mejora el aspecto visual : creative core
 familiarFauna: mas fauna
 fantastic Lib: libreria pa dynamic stealth
 
-ivToolkit: libreria para recurrent complex	
-
 grappling hook: ganchos madafakas
+
 hardcoreDarkness: oscuridad total
+
+ivToolkit: libreria para recurrent complex	
 
 jei: pos jei
 journeyMap: pos journeyMap
@@ -56,10 +60,13 @@ roughTweaks: ahora necesitas medkits para curarte
 sanity: un nivel de cordura que tienes que controlar, o viviras las consecuencias
 sereeneSeasons: estaciones
 sereneTweaks: para corregir errores de serene seasons
+simpletomb: tombstone
 solcarrot: spice of live, ganas corazones descubriendo nuevas comidas
 soManyEnchantments: mas encantamientos
+spartanWeaponry: armas espartanas
 SRP: D:
 starterKit: para configurar un kit de inicio 
+supermartin: libreria para trashcan
 
 techgun::D
 tiffit: libreria para sanity :v
