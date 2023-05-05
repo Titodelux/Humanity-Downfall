@@ -12,8 +12,8 @@ Principales:
 
     Supervivencia:
         RoughTweaks => Aceptado
-        SimpleDifficulty || ToughsAsNails
         HungerOverhaul => Aceptado
+        SimpleDifficulty => Aceptado
         SpiceOfLife && SolCarrot || Nutrition
 
     Espacio y futuristas:
@@ -21,9 +21,9 @@ Principales:
         Galacticraft => Aceptado
         TechGuns => Aceptado
         OpenModularTurrets => Aceptado
-        NTM_Extended => Aceptado
         BuildingGadgets => Aceptado
         Traveler's Backpack => Aceptado
+        NTM_Extended => Rechazado... Por ahora
 
     Mundo:
         AdLods => Aceptado
@@ -38,10 +38,10 @@ Principales:
 
 Complementales a Principales:
     SRP:
+        Overlast => Aceptado
         NoCubes_combat
         NoCubes_Nest
         NoCubes_Survival
-        Overlast
         SRP Vaccine
 
     Galacticraft:
@@ -49,8 +49,8 @@ Complementales a Principales:
 
     SimpleDifficulty || TAN && B3M:
         Campfire
-        ArmorUnder 
-        TravelersBackpackIntegrations
+        ArmorUnder => Aceptado
+        TravelersBackpackIntegrations => Aceptado
         CollectingRain
 
     OpenModularTurrets:
@@ -58,7 +58,7 @@ Complementales a Principales:
         Landmines => Aceptado
 
 Tweakers:
-    CustomZombieDrops
+    CustomZombieDrops => Aceptado
     Attributefix
     GalacticTweaks
     SereneTweaks
@@ -93,7 +93,7 @@ Opcionales:
     CSC(Pollos plumas)
     SecurityCraft
     StaminaPlus
-    SoManyEnchantments
+    SoManyEnchantments => Aceptado
     SpartanWeaponry
     WeakerSpiderWebs
     WebShooter
@@ -101,7 +101,7 @@ Opcionales:
     WallJump 
     TrashCan
     Morepainting
-    DoggyTalents
+    DoggyTalents => Aceptado
     WaterCan
     
 Librerias:
@@ -111,7 +111,7 @@ Librerias:
     ForgeEndertech => Aceptado
     ValkyrieLib => Aceptado
     AppleCore
-    CarrotsLib
+    CarrotsLib => Aceptado
     CodeChicken
     Collective
     Creative Core
@@ -131,10 +131,10 @@ Apoyo:
     AppleSkin => Aceptado
     JEI => Aceptado
     Swing Through Grass => Aceptado
-    JourneyMap
+    JourneyMap => Aceptado
     StarterKit || (yo tenia otro que no recuerdo nombre)
-    CarryOn
-    Comforts
+    CarryOn => Aceptado
+    Comforts => Aceptado
     Toolbelt
 
 Perfomance:
